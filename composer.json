@@ -16,7 +16,7 @@
         "illuminate/http": "5.5.x|5.6.x",
         "illuminate/routing": "5.5.x|5.6.x",
         "illuminate/support": "5.5.x|5.6.x",
-		"philkra/elastic-apm-php-agent": "dev-master",
+		"philkra/elastic-apm-php-agent": "dev-master#b8a9140f4be28ce063bd1d1d542d63b87be52914",
 		"ramsey/uuid": "^3.0"
 	},
 	"require-dev" : {
